@@ -130,3 +130,33 @@ A previous version utilized an open-source stack (Faster-Whisper, WhisperX, pyan
 > * Summaries lacked context due to chunking
 
 The hybrid **AssemblyAI + Gemini** model fully replaces this legacy approach, providing superior performance and scalability.
+
+### 📚 References
+* AssemblyAI Research (Universal-2, Conformer-2)
+* Google Gemini 1.5 Flash Paper
+* pyannote.audio: Speaker Diarization
+* OpenAI Whisper Research
+* Voxify AI Final Report & Research Paper
+
+---
+
+### 📜 License
+
+This project is licensed under the MIT License.
+
+---
+
+### 🤝 Contributions
+
+PRs are welcome!
+
+Future contributions: multilingual support, topic clustering, sentiment analysis, streaming ASR.
+
+---
+
+### 🎯 Future Scope
+* Multilingual ASR + summarization
+* Sentiment & emotion detection
+* Topic modeling
+* Vector search & RAG-enabled podcast insights
+* Real-time streaming transcription
