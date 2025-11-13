@@ -59,21 +59,21 @@ Voxify AI solves these through a hybrid architecture, achieving high accuracy, l
 ### 🖼 Screenshots
 
 * **Home Page**
-    ![Home Page]<img width="1899" height="909" alt="Screenshot 2025-11-01 120556" src="https://github.com/user-attachments/assets/b1d8fc85-94ea-4907-8793-631b024e000c" />
+    <img width="1899" height="909" alt="Screenshot 2025-11-01 120556" src="https://github.com/user-attachments/assets/b1d8fc85-94ea-4907-8793-631b024e000c" />
 
 
 * **Upload Page**
-    ![Upload Page]<img width="1896" height="903" alt="Screenshot 2025-11-01 120423" src="https://github.com/user-attachments/assets/df9d970b-8e71-4368-8250-307e0f5163e8" />
+    <img width="1896" height="903" alt="Screenshot 2025-11-01 120423" src="https://github.com/user-attachments/assets/df9d970b-8e71-4368-8250-307e0f5163e8" />
 
 
 * **Processing**
-    ![Processing](<img width="1684" height="915" alt="Screenshot 2025-11-01 120126" src="https://github.com/user-attachments/assets/d86004ab-aae3-4a2b-a965-85c74693caeb" />
+    <img width="1684" height="915" alt="Screenshot 2025-11-01 120126" src="https://github.com/user-attachments/assets/d86004ab-aae3-4a2b-a965-85c74693caeb" />
 
 
 * **Summary Output**
-    ![Summary Output](<img width="1900" height="892" alt="Screenshot 2025-11-01 120453" src="https://github.com/user-attachments/assets/476f87b0-655a-47ef-961c-aad53254c2b5" />
-  ![Key Takeaways]<img width="1902" height="915" alt="Screenshot 2025-11-01 120515" src="https://github.com/user-attachments/assets/6bc30600-5151-4f10-8a54-b73d95bb0690" />
-    ![Speaker Highlights](<img width="1893" height="914" alt="Screenshot 2025-11-01 120528" src="https://github.com/user-attachments/assets/54571718-25ed-41a8-9410-6c65c218a619" />
+<img width="1900" height="892" alt="Screenshot 2025-11-01 120453" src="https://github.com/user-attachments/assets/476f87b0-655a-47ef-961c-aad53254c2b5" />
+<img width="1902" height="915" alt="Screenshot 2025-11-01 120515" src="https://github.com/user-attachments/assets/6bc30600-5151-4f10-8a54-b73d95bb0690" />
+<img width="1893" height="914" alt="Screenshot 2025-11-01 120528" src="https://github.com/user-attachments/assets/54571718-25ed-41a8-9410-6c65c218a619" />
 
 
 ### 🔧 Tech Stack
